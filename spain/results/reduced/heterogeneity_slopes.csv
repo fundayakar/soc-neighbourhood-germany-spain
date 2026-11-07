@@ -1,0 +1,5 @@
+protocol,contrast,slope_per_NDVI_std_IQR,ci_low,ci_high,NDVI_std_IQR,loss
+block_100,original_vs_centre,0.005776709355370828,-0.001810816153773914,0.013764485844937748,0.06080132146659756,paired reduction in squared log1p error; positive favours original
+block_100,original_vs_shuffled,-0.0012162517650122853,-0.004297938701066442,0.002074432837354702,0.06080132146659756,paired reduction in squared log1p error; positive favours original
+block_100_buffer20,original_vs_centre,0.0027874352690989844,-0.00585711888037757,0.012793633240024197,0.06080132146659756,paired reduction in squared log1p error; positive favours original
+block_100_buffer20,original_vs_shuffled,0.00023600728928916396,-0.003769241083152733,0.004127880236426027,0.06080132146659756,paired reduction in squared log1p error; positive favours original

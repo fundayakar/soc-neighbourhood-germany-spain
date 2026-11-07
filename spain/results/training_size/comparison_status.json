@@ -1,0 +1,12 @@
+{
+  "complete": true,
+  "full_configurations": 400,
+  "matched_configurations": 400,
+  "same_Spanish_test_rows_verified": 300320,
+  "n": 3754,
+  "blocks": 69,
+  "bootstrap_draws": 2000,
+  "seed": 20261101,
+  "interpretation": "training-size effect within Spain under fixed algorithms; one frozen random subset per fold; not a causal country comparison",
+  "uncertainty": "paired cluster bootstrap conditional on frozen models/predictions; no refits or multiplicity adjustment"
+}

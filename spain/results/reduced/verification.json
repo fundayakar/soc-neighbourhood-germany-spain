@@ -1,0 +1,9 @@
+{
+  "all_model_test_memberships_and_SOC_verified": 400,
+  "neural_checkpoints_replayed": 240,
+  "maximum_replay_delta": 0.0,
+  "common_original_training_normalization_verified": true,
+  "CNN_parameters": 8449,
+  "partial": false,
+  "scientific_verification_complete": true
+}

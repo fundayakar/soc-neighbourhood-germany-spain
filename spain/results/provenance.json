@@ -1,0 +1,30 @@
+{
+  "working_archive_sha256": "c2f54a2a866d11e1c04878d09e768902a2a714e6b25f24a7d70d14e2e4ff08c1",
+  "source_core": {
+    "repo": "https://github.com/fundayakar/SOC-mapping-Germany",
+    "public_base_commit": "ba201b5",
+    "files": {
+      "reproducibility/experiments/main/cnn/train_patch_models.py": {
+        "unchanged_from_public_base": true,
+        "sha256": "6b18477bc1ebf9f239802a01bc11ddfe967a27c634c4c8a17aa125051e9099d1"
+      },
+      "reproducibility/experiments/cnn_controls/run_ablations.py": {
+        "unchanged_from_public_base": true,
+        "sha256": "23dcb25a5f6331880526387e928cb4ff02f240875b2f58d85a0e43891db9318b"
+      },
+      "reproducibility/experiments/main/target_compare.py": {
+        "unchanged_from_public_base": true,
+        "sha256": "b84f16849c95173f037dff22cc015be02771bdb5dca455ffaf050be13caa17a2"
+      },
+      "reproducibility/experiments/main/cnn/prepare_patches.py": {
+        "unchanged_from_public_base": true,
+        "sha256": "dbd12c0b378673c6319d38d1559ff9d55e45c122f9f2d60f4660b63fd3ac555a"
+      },
+      "reproducibility/experiments/main/stage2/rf_compare.py": {
+        "unchanged_from_public_base": true,
+        "sha256": "1a485ceee329a156a6272ac27cabca49574765b34f6c321e76b263bf49969ae8"
+      }
+    }
+  },
+  "publication_boundary": "Aggregates and unlabelled inputs only. No fitted weights, individual SOC or point predictions."
+}

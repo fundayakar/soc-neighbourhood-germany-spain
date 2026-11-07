@@ -1,0 +1,13 @@
+Country,Training target,Model,RMSE (g kg⁻¹),MAE (g kg⁻¹),Log-scale R²
+Germany,Log,Centre RF,49.342,19.360,0.353
+Germany,Log,Context RF,47.489,18.715,0.403
+Germany,Log,Original CNN,47.253,18.653,0.416
+Germany,Raw,Centre RF,49.221,22.868,0.200
+Germany,Raw,Context RF,46.913,22.077,0.243
+Germany,Raw,Original CNN,46.298,21.895,0.090
+Spain,Log,Centre RF,20.469,10.691,0.487
+Spain,Log,Context RF,20.555,10.587,0.499
+Spain,Log,Original CNN,20.796,10.735,0.502
+Spain,Raw,Centre RF,20.818,11.682,0.410
+Spain,Raw,Context RF,20.194,11.437,0.425
+Spain,Raw,Original CNN,20.521,11.564,0.417

@@ -1,0 +1,13 @@
+Spatial protocol,Training target,Representation,RMSE (g kg⁻¹),MAE (g kg⁻¹),Log-scale R²
+Blocks,Log,Centre only,21.015,10.904,0.486
+Blocks,Log,Original,20.796,10.735,0.502
+Blocks,Log,Joint shuffle,20.764,10.710,0.503
+Blocks,Raw,Centre only,20.594,11.691,0.401
+Blocks,Raw,Original,20.521,11.564,0.417
+Blocks,Raw,Joint shuffle,20.439,11.600,0.412
+Blocks + buffer,Log,Centre only,21.122,10.990,0.467
+Blocks + buffer,Log,Original,21.143,10.823,0.491
+Blocks + buffer,Log,Joint shuffle,21.005,10.766,0.489
+Blocks + buffer,Raw,Centre only,20.742,11.644,0.374
+Blocks + buffer,Raw,Original,20.574,11.602,0.397
+Blocks + buffer,Raw,Joint shuffle,20.695,11.475,0.401

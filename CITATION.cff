@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite this software version and the original data providers."
+type: software
+title: "SOC neighbourhood prediction in Germany and Spain"
+version: 1.0.0
+authors:
+  - family-names: Yakar
+    given-names: Funda
+    orcid: "https://orcid.org/0000-0002-7082-3956"
+license: CC-BY-4.0

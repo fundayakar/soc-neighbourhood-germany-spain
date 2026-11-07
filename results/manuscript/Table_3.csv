@@ -1,0 +1,5 @@
+Country,Spatial protocol,Δ log-scale R²: original − centre,Δ log-scale R²: original − shuffled,Δ RMSE: original − centre,Δ RMSE: original − shuffled
+Germany,100 km blocks,+0.087,+0.027,−2.126,−0.271
+Germany,100 km blocks + 20 km buffer,+0.066,+0.013,−1.732,+0.184
+Spain,100 km blocks,+0.016,−0.001,−0.218,+0.032
+Spain,100 km blocks + 20 km buffer,+0.024,+0.002,+0.021,+0.138

@@ -1,0 +1,17 @@
+{
+  "path": "spain/data/predictors/es_2018_unlabelled.npz",
+  "n": 3754,
+  "label_dtype": "float64",
+  "label_array_sha256": "09bd048f9be88b690a82a2b514c3af37445bc585011a957a5f59e64090299c67",
+  "predictors_sha256": "134bdc1b21b2087b3b4bd9e5f0076b2796e00e5720ccc61303dd49dc8541ac16",
+  "fields": [
+    "X",
+    "valid",
+    "climate",
+    "point_id",
+    "year",
+    "bands",
+    "climate_names"
+  ],
+  "source": "2018 EO inputs from the completed Spanish experiment"
+}
