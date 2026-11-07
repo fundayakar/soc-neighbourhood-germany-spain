@@ -4,6 +4,8 @@ Companion code and results for **Separating the contributions of neighbouring va
 
 The experiments use separate LUCAS 2018 topsoil cohorts (Germany: 663; Spain: 3,754). Both cohorts use 2018 predictors for the main comparison. The German predictor-year sensitivity uses 2022 predictors against the same 2018 SOC. The German GPS sensitivity uses 662 paired observations and does not repeat the matched CNN input controls. Models were fitted and evaluated separately in each country.
 
+The complete v1.0.0 reproducibility package, including the unlabelled predictor arrays, is archived on Zenodo: [10.5281/zenodo.24044760](https://doi.org/10.5281/zenodo.24044760).
+
 ## Reproduce the reported tables
 
 ```bash
